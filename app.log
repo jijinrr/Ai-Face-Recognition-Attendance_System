@@ -392,3 +392,45 @@
 2025-04-30 17:53:23,911 - WARNING - Failed login attempt for faculty (Admin)
 2025-04-30 17:53:27,315 - INFO - Login attempt: faculty, Faculty, Success
 2025-04-30 17:53:28,595 - INFO - User faculty (Faculty) logged in successfully
+2025-05-02 10:28:25,913 - INFO - Database connection established
+2025-05-02 10:28:26,457 - INFO - Database tables created successfully
+2025-05-02 10:28:26,851 - WARNING - No face encodings found in face_data/7736/2.jpg
+2025-05-02 10:28:26,873 - WARNING - No face encodings found in face_data/7736/3.jpg
+2025-05-02 10:28:26,896 - WARNING - No face encodings found in face_data/7736/1.jpg
+2025-05-02 10:28:26,897 - WARNING - No face encodings found in face_data/7736/0.jpg
+2025-05-02 10:28:26,903 - WARNING - No face encodings found in face_data/009/8.jpg
+2025-05-02 10:28:26,909 - WARNING - No face encodings found in face_data/009/9.jpg
+2025-05-02 10:28:26,911 - WARNING - No face encodings found in face_data/009/4.jpg
+2025-05-02 10:28:26,917 - WARNING - No face encodings found in face_data/009/5.jpg
+2025-05-02 10:28:26,921 - WARNING - No face encodings found in face_data/009/7.jpg
+2025-05-02 10:28:26,925 - WARNING - No face encodings found in face_data/009/6.jpg
+2025-05-02 10:28:26,973 - WARNING - No face encodings found in face_data/009/3.jpg
+2025-05-02 10:28:27,015 - WARNING - No face encodings found in face_data/009/0.jpg
+2025-05-02 10:28:28,209 - WARNING - No face encodings found in face_data/5588/9.jpg
+2025-05-02 10:28:28,243 - WARNING - No face encodings found in face_data/5588/5.jpg
+2025-05-02 10:28:28,245 - WARNING - No face encodings found in face_data/5588/7.jpg
+2025-05-02 10:28:28,312 - WARNING - No face encodings found in face_data/5588/3.jpg
+2025-05-02 10:28:28,346 - WARNING - No face encodings found in face_data/5588/0.jpg
+2025-05-02 10:28:28,867 - WARNING - No face encodings found in face_data/0102/8.jpg
+2025-05-02 10:28:28,917 - WARNING - No face encodings found in face_data/0102/4.jpg
+2025-05-02 10:28:28,918 - WARNING - No face encodings found in face_data/0102/5.jpg
+2025-05-02 10:28:28,921 - WARNING - No face encodings found in face_data/0102/7.jpg
+2025-05-02 10:28:28,922 - WARNING - No face encodings found in face_data/0102/6.jpg
+2025-05-02 10:28:28,924 - WARNING - No face encodings found in face_data/0102/2.jpg
+2025-05-02 10:28:28,925 - WARNING - No face encodings found in face_data/0102/3.jpg
+2025-05-02 10:28:28,927 - WARNING - No face encodings found in face_data/0102/1.jpg
+2025-05-02 10:28:28,928 - WARNING - No face encodings found in face_data/0102/0.jpg
+2025-05-02 10:28:29,349 - INFO - Loaded 54 known faces from 8 students
+2025-05-02 10:28:29,373 - INFO - Displayed attendance for 2025-05-02
+2025-05-02 10:28:46,159 - INFO - Login attempt: admin, Admin, Success
+2025-05-02 10:28:47,451 - INFO - User admin (Admin) logged in successfully
+2025-05-02 10:28:58,840 - INFO - User logged out
+2025-05-02 10:29:07,756 - INFO - Login attempt: faculty, Faculty, Success
+2025-05-02 10:29:08,886 - INFO - User faculty (Faculty) logged in successfully
+2025-05-02 10:29:12,454 - INFO - Starting face recognition for attendance
+2025-05-02 10:29:17,460 - INFO - Confident recognition of 112233 after 5 detections
+2025-05-02 10:29:18,927 - INFO - Attendance marked for 112233 by faculty faculty
+2025-05-02 10:29:18,927 - INFO - Attendance marked for 112233 by faculty faculty
+2025-05-02 10:29:20,804 - INFO - Attendance marked for students: 112233
+2025-05-02 10:29:20,806 - INFO - Displayed attendance for 2025-05-02
+2025-05-02 10:29:30,827 - INFO - User logged out
